@@ -1,3 +1,5 @@
+[![smithery badge](https://smithery.ai/badge/e-goetmann/easykanban)](https://smithery.ai/servers/e-goetmann/easykanban)
+
 # EasyKanban MCP Server
 
 Connect Claude, ChatGPT, Cursor, or any MCP-compatible AI to your
